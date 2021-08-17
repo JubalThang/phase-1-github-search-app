@@ -11,3 +11,8 @@
 ul {
   list-style: none;
 }
+
+.card {
+  border: solid 1px #ccc;
+  box-shadow: 0 4px 5px 0;
+}
